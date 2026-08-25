@@ -35,3 +35,8 @@ local host, 127.0.0.1
 
 npm: node pacakage manager 
 npm init -y
+200 ok
+201 created 
+400 bad request
+401
+404
