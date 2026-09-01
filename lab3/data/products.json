@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 16",
+    "brand": "Apple",
+    "price": 79999,
+    "storage": "128GB",
+    "ram": "8GB",
+    "display": "6.1 inch",
+    "camera": "48MP",
+    "battery": "3561mAh"
+  },
+  {
+    "id": 2,
+    "name": "Galaxy S25",
+    "brand": "Samsung",
+    "price": 74999,
+    "storage": "256GB",
+    "ram": "12GB",
+    "display": "6.2 inch",
+    "camera": "50MP",
+    "battery": "4000mAh"
+  },
+  {
+    "id": 3,
+    "name": "Pixel 9",
+    "brand": "Google",
+    "price": 79999,
+    "storage": "128GB",
+    "ram": "12GB",
+    "display": "6.3 inch",
+    "camera": "50MP",
+    "battery": "4700mAh"
+  },
+  {
+    "id": 4,
+    "name": "OnePlus 13",
+    "brand": "OnePlus",
+    "price": 69999,
+    "storage": "256GB",
+    "ram": "12GB",
+    "display": "6.82 inch",
+    "camera": "50MP",
+    "battery": "6000mAh"
+  },
+  {
+    "id": 5,
+    "name": "Xiaomi 15",
+    "brand": "Xiaomi",
+    "price": 64999,
+    "storage": "256GB",
+    "ram": "12GB",
+    "display": "6.36 inch",
+    "camera": "50MP",
+    "battery": "5240mAh"
+  },
+  {
+    "id": 6,
+    "name": "Nothing Phone 3",
+    "brand": "Nothing",
+    "price": 49999,
+    "storage": "256GB",
+    "ram": "12GB",
+    "display": "6.7 inch",
+    "camera": "50MP",
+    "battery": "5150mAh"
+  },
+  {
+    "id": 7,
+    "name": "Vivo X200",
+    "brand": "Vivo",
+    "price": 65999,
+    "storage": "512GB",
+    "ram": "16GB",
+    "display": "6.67 inch",
+    "camera": "50MP",
+    "battery": "5800mAh"
+  },
+  {
+    "id": 8,
+    "name": "Oppo Find X8",
+    "brand": "Oppo",
+    "price": 69999,
+    "storage": "256GB",
+    "ram": "12GB",
+    "display": "6.59 inch",
+    "camera": "50MP",
+    "battery": "5630mAh"
+  },
+  {
+    "id": 9,
+    "name": "Realme GT 7",
+    "brand": "Realme",
+    "price": 42999,
+    "storage": "256GB",
+    "ram": "12GB",
+    "display": "6.78 inch",
+    "camera": "50MP",
+    "battery": "7000mAh"
+  },
+  {
+    "id": 10,
+    "name": "Motorola Edge 60",
+    "brand": "Motorola",
+    "price": 29999,
+    "storage": "256GB",
+    "ram": "8GB",
+    "display": "6.67 inch",
+    "camera": "50MP",
+    "battery": "5200mAh"
+  }
+]
