@@ -40,3 +40,6 @@ npm init -y
 400 bad request
 401
 404
+
+we can share html, txt or json file
+using createReadStream 
