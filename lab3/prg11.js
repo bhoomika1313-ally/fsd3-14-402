@@ -1,4 +1,4 @@
-import http from 'http';
+/*import http from 'http';
 
 const server = http.createServer((req, res) => {
     if (req.url === '/' && req.method === 'GET') {
@@ -65,4 +65,4 @@ const server = http.createServer((req, res) => {
 
 server.listen(4000, () => {
     console.log("server on 4000...");
-});
+});*/
